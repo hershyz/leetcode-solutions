@@ -118,4 +118,5 @@
   <li><a href="https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/">Check if a String Contains All Binary Codes of Size K</a></li>
   <li><a href="https://leetcode.com/problems/lemonade-change/">Lemonade Change</a></li>
   <li><a href="https://leetcode.com/problems/rank-transform-of-an-array/">Rank Transform of an Array</a></li>
+  <li><a href="https://leetcode.com/problems/minimum-absolute-sum-difference/submissions/">Minimum Absolute Sum Difference</a></li>
 </ul>
